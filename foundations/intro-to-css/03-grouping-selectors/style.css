@@ -1,0 +1,9 @@
+/*styles.css*/
+.inline,
+.put { font-family: 'Times New Roman', Helvetica, sans-serif;
+font-size: 28px;}
+.inline {
+    color: white;  
+    background-color: black;
+}
+.put {color: black; background-color: yellow;}
